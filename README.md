@@ -4,4 +4,5 @@
 
 This course is supported by Seoul Digital Foundation& [ModuLabs](http://pay.modulabs.co.kr/).
 
-✔ Instructor: [Jahye Ha](https://github.com/jahyeha) (jahyeharu@gmail.com)
+
+☁Instructor: [Jahye Ha](https://github.com/jahyeha) (jahyeharu@gmail.com)
