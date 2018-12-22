@@ -1,6 +1,6 @@
 # pastel-toy-project
 
-`파스텔 101` ░░ Pastel 101 Course (18.10.13-12.01)
+`파스텔 101` Pastel 101 Course (18.10.13-12.01)
 
 This course is supported by Seoul Digital Foundation& [ModuLabs](http://pay.modulabs.co.kr/).
 
