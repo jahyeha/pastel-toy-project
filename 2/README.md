@@ -9,7 +9,7 @@
   - Download for **[windows](https://www.anaconda.com/download/#windows)**
 
 ## 1. JDK 설치 
-  - jdk-11.0.1_windows-x64_bin.exe 설치 (최신버전/64비트용)
+  - jdk-11.0.1_windows-x64_bin.exe 설치 (2018.11 기준 최신버전/64비트용)
   - 설치 링크: **[JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)**
     * (참고) OS 비트수 확인 방법: `내 pc 마우스 오른쪽 클릭> 속성> 컴퓨터 기본 정보에서 "시스템 종류" 부분 확인`
 
