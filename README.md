@@ -10,3 +10,20 @@ This basic course is supported by Seoul Digital Foundation& [ModuLabs](http://pa
 
 ## Contents
 Korean NLP& Text visualization("word cloud") with Python for Beginners
+
+## Requirements
+Initial requirements are as follows.
+```
+python 3.6.5
+bs4 0.0.1
+JPype1 0.6.3
+konlpy 0.5.1
+lxml 4.2.5
+matplotlib 3.0.1
+nltk 5.7.0
+numpy 1.15.4
+pandas 0.23.4
+urllib3 1.24.1
+wheel 0.32.2
+wordcloud 1.5.0
+```
