@@ -6,7 +6,7 @@
 
 This basic course is supported by **[서울디지털재단](http://sdf.seoul.kr/eng/)**.
 
-☁**Instructor**: [하자혜](https://github.com/jahyeha) (jahyeharu@gmail.com)
+☁**Instructor**: [하자혜](https://github.com/jahyeha)
 
 ## Contents
 **(Basic)** Introduction to Korean Natural Language Processing& Text Visualization(Word Cloud) with Python
