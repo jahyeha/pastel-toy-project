@@ -1,6 +1,6 @@
 # pastel-toy-project
 
-<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/__.png" width="40%">
+<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/__.png" width="70%">
 
 **Pastel**: Python Storytelling Course (18.10.13-12.01)
 
