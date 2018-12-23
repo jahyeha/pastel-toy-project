@@ -1,7 +1,7 @@
 
 ## KoNLPy 설치 (Windows)
 
-<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/2/logo.png" width="13%">
+<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/2/img/logo.png" width="13%">
 
 **[KoNLPy](http://konlpy.org/ko/latest/)** : 한국어 정보처리를 위한 파이썬 패키지
 
@@ -47,4 +47,4 @@
   
 ### 6. KoNLPy 작동 확인 
 
-<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/2/__.png" width="80%">
+<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/2/img/__.png" width="80%">
