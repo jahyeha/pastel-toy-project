@@ -11,9 +11,7 @@
 ## 1. JDK 설치 
   - jdk-11.0.1_windows-x64_bin.exe 설치 (최신버전/64비트용)
   - 설치 링크: **[JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)**
-    * (참고) OS 비트수 확인 방법
-    
-      `내 pc 마우스 오른쪽 클릭> 속성> 컴퓨터 기본 정보에서 "시스템 종류" 부분 확인`
+    * (참고) OS 비트수 확인 방법: `내 pc 마우스 오른쪽 클릭> 속성> 컴퓨터 기본 정보에서 "시스템 종류" 부분 확인`
 
 ## 2. JAVA_HOME 설정
   - 내 PC에서 마우스 오른쪽 클릭 후 "속성" 클릭
@@ -32,7 +30,7 @@
   - cd 명령어를 통해 JPype1이 설치된 위치로 이동 (만약 바탕화면에 설치됐다면, cd desktop)
   - pip install `JPype1-0.6.3-cp36-cp36m-win_amd64.whl`
   
-    * Example
+#### Example
   
 ```
 >(base) C:\Users\Jahye Ha> activate pastel
