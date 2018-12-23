@@ -3,9 +3,11 @@
 
 <img src="https://github.com/jahyeha/pastel-toy-project/blob/master/2/logo.png" width="13%">
 
+**[KoNLPy](http://konlpy.org/ko/latest/)** : 한국어 정보처리를 위한 파이썬 패키지
+
 ## 1. JDK 설치 
   - jdk-11.0.1_windows-x64_bin.exe 설치 (최신버전/64비트용)
-  - 설치 링크: https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
+  - 설치 링크: **[link](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)**
     * (참고) OS 비트수 확인 방법: 내 pc 마우스 오른쪽 클릭> 속성> 컴퓨터 기본 정보에서 "시스템 종류" 부분 확인
 
 ## 2. JAVA_HOME 설정
@@ -15,7 +17,7 @@
   - "변수값"에 "C:\Program Files\Java\jdk-11.0.1" (JDK software가 설치된 위치) 추가
 
 ## 3. JPype1 (>=0.5.7) 설치
-  - 설치 링크: https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+  - 설치 링크: **[link](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype)**
   - 유의사항: OS의 비트수와 일치해야 함
     * e.g.) JPype1‑0.6.3‑cp27‑cp27m‑win_amd64.whl : 파이썬 버전 2.7 & OS 64비트
     * e.g.) JPype1‑0.6.3‑cp37‑cp37m‑win32.whl : 파이썬 버전 3.7 & OS 32비트
