@@ -8,3 +8,12 @@
 
 
 <img src="https://github.com/jahyeha/pastel-toy-project/blob/master/1/img/petition.jpg" width="100%">
+
+## Requirements
+```
+numpy 1.15.4
+pandas 0.23.4
+konlpy 0.5.1
+matplotlib 3.0.1
+wordcloud 1.5.0
+```
