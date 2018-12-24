@@ -1,6 +1,6 @@
 ## The Little Prince (어린왕자)
 
-### Word Cloud visualization
+### ☁Word Cloud visualization
 
 <img src="https://github.com/jahyeha/pastel-toy-project/blob/master/1/img/intro.png" width="60%">
 
