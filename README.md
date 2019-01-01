@@ -1,8 +1,8 @@
 # pastel-toy-project
 
-<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/intro.png" width="30%">
+<img src="https://github.com/jahyeha/pastel-toy-project/blob/master/intro.png" width="50%">
 
-**Pastel**: Python Storytelling Course (18.10.13-12.01) 🌠**Instructor**: [하자혜](https://github.com/jahyeha)
+**Pastel**: Python Storytelling Course (18.10.13-12.01) | **Instructor**: [하자혜](https://github.com/jahyeha)
 
 This course is supported by 서울특별시& **[서울디지털재단](http://sdf.seoul.kr/eng/)**.
 
