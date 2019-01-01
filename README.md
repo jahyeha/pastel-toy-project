@@ -2,12 +2,16 @@
 
 <img src="https://github.com/jahyeha/pastel-toy-project/blob/master/pastel.png" width="50%">
 
-**Pastel**: Python Storytelling Course (18.10.13-12.01) | **Instructor**: [하자혜](https://github.com/jahyeha)
+**Pastel**: Python Storytelling Course (18.10.13-12.01) 
 
 This course is supported by 서울특별시& **[서울디지털재단](http://sdf.seoul.kr/eng/)**.
 
-## Contents
-**(Basic)** Introduction to Korean Natural Language Processing& Text Visualization(Word Cloud) with Python
+## Topic/Contents
+
+#### **(BASIC)** Python을 활용한 한국어 자연어처리 및 텍스트 시각화 입문
+Introduction to Korean Natural Language Processing& Text Visualization with Python
+
+░░░░ 실습용 코드 ░░░░
 
 ## Requirements
 Initial requirements are as follows.
@@ -25,3 +29,5 @@ urllib3 1.24.1
 wheel 0.32.2
 wordcloud 1.5.0
 ```
+## Instructor
+👩‍🚀[하자혜](https://github.com/jahyeha) (jahyeharu@gmail.com)
