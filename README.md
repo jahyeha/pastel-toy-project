@@ -8,8 +8,8 @@ This course is supported by 서울특별시& **[서울디지털재단](http://sd
 
 ## Topic/Contents
 
-#### **(BASIC)** Python을 활용한 한국어 자연어처리 및 텍스트 시각화 입문
-Introduction to Korean Natural Language Processing& Text Visualization with Python
+#### **(BASIC)** Python＆Word Cloud를 활용한 한국어 자연어처리 및 텍스트 시각화 입문
+Introduction to Korean Natural Language Processing＆Text Visualization with Python
 
 ░░░░ 실습용 코드 ░░░░
 
